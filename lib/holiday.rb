@@ -87,4 +87,6 @@ def all_holidays_with_bbq(holiday_hash)
       end
     end
   end
+  # RETURN THE NEW ARRAY!!!
+  bbq_array
 end
